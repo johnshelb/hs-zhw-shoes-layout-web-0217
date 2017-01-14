@@ -24,8 +24,17 @@
 
 /* Posititoning Classes */
 .one-third{
-  width: 33%;
+  width: 30%;
   float: left;
+  margin-right:15px;
+  margin-top: 15px;
+}
+
+.last-third{
+  width: 307.19px;
+  float: right;
+  margin: auto;
+  margin-top: 15px;
 }
 
 .two-thirds{
@@ -36,9 +45,5 @@
 .col-2 {
   float: right;
   width: 32%;
-}
-
-.wrapperA{
-  width: 960px;
-	margin: 0 auto;
+  height: 580px;
 }
