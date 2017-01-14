@@ -25,19 +25,33 @@
 /* Posititoning Classes */
 
 .two-thirds{
-  width: 66%;
+  width: 65%;/*change*/
   float: left;
   display: inline;
 }
 
 .col-2 {
   float: right;
-  width: 33%
-  display: block;
-  margin-left: 20px;
+  width: 32%;
+  /*margin-left: 15px;*/
+  display: inline;
 }
 
 .wrapperA{
   width: 960px;
 	margin: 0 auto;
+}
+
+#testDiv1{
+  width: 49%;
+  float:left;
+  background:magenta;
+  margin:2px;
+}
+
+#testDiv2 {
+  width: 49%;
+  float:left;
+  background:green;
+  margin:2px;
 }
