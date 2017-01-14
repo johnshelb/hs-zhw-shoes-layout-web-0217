@@ -24,4 +24,20 @@
 
 /* Posititoning Classes */
 
+.two-thirds{
+  width: 66%;
+  float: left;
+  display: inline;
+}
 
+.col-2 {
+  float: right;
+  width: 33%
+  display: block;
+  margin-left: 20px;
+}
+
+.wrapperA{
+  width: 960px;
+	margin: 0 auto;
+}
