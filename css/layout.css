@@ -23,17 +23,19 @@
 }
 
 /* Posititoning Classes */
+.one-third{
+  width: 33%;
+  float: left;
+}
 
 .two-thirds{
-  width: 65%;
+  width: 64%;
   float: left;
-  display: inline;
 }
 
 .col-2 {
   float: right;
   width: 32%;
-  display: inline;
 }
 
 .wrapperA{
