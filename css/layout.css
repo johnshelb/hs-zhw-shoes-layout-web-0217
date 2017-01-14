@@ -25,16 +25,15 @@
 /* Posititoning Classes */
 
 .two-thirds{
-  width: 66%;
+  width: 65%;
   float: left;
   display: inline;
 }
 
 .col-2 {
   float: right;
-  width: 33%
-  display: block;
-  margin-left: 20px;
+  width: 32%;
+  display: inline;
 }
 
 .wrapperA{
