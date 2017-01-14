@@ -23,27 +23,33 @@
 }
 
 /* Posititoning Classes */
+.milk_text{
+  color: red;
+  display: block;
+  margin-top: 10%;
+  margin-bottom: 1%;
+}
 .one-third{
-  width: 30%;
+  width: 32.29%;
   float: left;
-  margin-right:15px;
+  margin-right: 1.56%;
   margin-top: 15px;
 }
 
 .last-third{
-  width: 307.19px;
+  width: 32.29%;
   float: right;
-  margin: auto;
   margin-top: 15px;
 }
 
 .two-thirds{
-  width: 64%;
+  width: 66.2%;
+  margin-right: 1.56%;
   float: left;
 }
 
 .col-2 {
   float: right;
-  width: 32%;
-  height: 580px;
+  width: 32.24%;
+  height: 594px;
 }
